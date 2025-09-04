@@ -9,9 +9,14 @@
 }
 
 body {
-    font-size: 1rem;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('https://i.imgur.com/DUgud7E.png'); /* Papel de parede psicodélico retrô */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #3e2c23;
 }
+
 
 header {
     background-color: #ffffff;
