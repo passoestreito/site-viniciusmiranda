@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --laranja-claro: #FF6F00; /* Laranja vibrante, uma cor quente e acolhedora */
+    --alto-contraste-fundo: #2C3E50; /* Fundo escuro, um azul petróleo, para um contraste elegante */
+    --alto-contraste-texto: #ECF0F1; /* Branco suave para texto, facilitando a leitura no fundo escuro */
+    --alto-contraste-link: #F39C12; /* Amarelo dourado vibrante para links, combinando com a energia dos anos 60 */
 }
 
 body {
