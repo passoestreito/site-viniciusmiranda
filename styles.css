@@ -122,7 +122,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+      background: linear-gradient(to bottom, #fa4d4d, #fa0c0c);
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
