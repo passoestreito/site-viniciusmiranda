@@ -8,8 +8,10 @@
     --alto-contraste-link: #F39C12; /* Amarelo dourado vibrante para links, combinando com a energia dos anos 60 */
 }
 
-body { 
-    font-size: 1rem; font-family: 'Montserrat'; 
+body {
+    font-size: 1rem;
+    font-family: 'Montserrat';
+    background: linear-gradient(to bottom, #fa4d4d, #fa0c0c);
 }
 
 header {
